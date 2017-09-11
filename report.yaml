@@ -7,7 +7,7 @@ product_narrative: |
   Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
   With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
 team:
-  picture: team_picture.jpg
+  picture: E383E868-.jpg
   roster:
   - name: Rachel Sobel
     email: rachel.sobel.cornell@gmail.com
@@ -16,8 +16,8 @@ team:
 
 assets:
 - title: Sprint 1
-  url: 
+  url: http://cornelltech.io/spice-up-your-personal-privacy-with-pepr/
 - title: Sprint 2
-  url: 
+  url: http://cornelltech.io/health-apps-on-steroids/
 - title: Sprint 3
-  url: 
+  url: http://cornelltech.io/storybot/

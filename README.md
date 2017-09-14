@@ -9,7 +9,7 @@ To create your team's Buildboard complete the below tasks
 7. Click "Commit changes" when you are ready to save
 
 --Copy the Code Below--
-
+```yaml
 company:
   name: YOUR TEAM/COMPANY NAME HERE
   logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. Should look something like this: Cornell_NYC_Tech_logo.png)
@@ -38,7 +38,7 @@ assets:
   url: URL OF YOUR SPRINT 2 WORK/PRESENTATION
 - title: Sprint 3
   url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
-  
+```
  
  
  --Copy the Code Above--

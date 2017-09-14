@@ -10,6 +10,7 @@ To create your team's Buildboard complete the below tasks
 
 --Copy the Code Below--
 
+
 company:
   name: YOUR TEAM/COMPANY NAME HERE
   logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. Should look something like this: Cornell_NYC_Tech_logo.png)
@@ -39,4 +40,6 @@ assets:
 - title: Sprint 3
   url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
   
-  --Copy the Code Above--
+ 
+ 
+ --Copy the Code Above--

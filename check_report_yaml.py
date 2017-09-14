@@ -1,7 +1,7 @@
 import pdb
 import yaml
 
-FILE_NAME = "report.yaml"
+FILE_NAME = "report2.yaml"
 
 TOP_LEVEL_KEYS = set(['product_narrative', 'company', 'how_might_we',
                     'assets', 'team'])
@@ -38,6 +38,7 @@ if __name__ == '__main__':
     print 'This basic checker reports the first problem it runs into in your report.yaml file.'
     print 'Once you fix that, it can check the rest.'
     print 'You may also want to look at https://codebeautify.org/yaml-validator'
+    print '================Problems================'
     yaml_file = open(FILE_NAME, 'r')
     try:
         doc = yaml.load(yaml_file)
@@ -61,4 +62,5 @@ if __name__ == '__main__':
                     if roster_problems:
                         output_error(roster_problems)
     except Exception, e:
-        print 'Your yaml file does not parse correctly:', str(e)
+        print 'Your yaml file does not parse correctly:\n'
+        print str(e)

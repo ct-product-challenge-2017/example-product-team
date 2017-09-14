@@ -3,7 +3,7 @@ To create your team's Buildboard complete the below tasks
 1. On your team’s repo and upload your team photo
 2. Upload your company’s logo
 3. Click on “Create new file”
-4. Name your file exactly as follows: report.yaml
+4. Name your file EXACTLY as follows: report.yaml
 5. In the “Edit new file” tab/text area, copy and paste the whole code below
 6. Update the copied code with your team’s relevant information
 7. Click "Commit changes" when you are ready to save

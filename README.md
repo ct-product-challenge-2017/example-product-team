@@ -10,7 +10,7 @@ To create your team's Buildboard complete the below tasks
 
 --Copy the Code Below--
 
-''''company:
+company:
   name: YOUR TEAM/COMPANY NAME HERE
   logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. Should look something like this: Cornell_NYC_Tech_logo.png)
 how_might_we: COPY AND PASTE YOUR HMW HERE
@@ -37,7 +37,7 @@ assets:
 - title: Sprint 2
   url: URL OF YOUR SPRINT 2 WORK/PRESENTATION
 - title: Sprint 3
-  url: URL OF YOUR SPRINT 3 WORK/PRESENTATION''''
+  url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
   
  
  

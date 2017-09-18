@@ -20,15 +20,15 @@ product_narrative: |
 team:
   picture: TEAM PHOTO FILE (Copy the and paste the file name here of your upload here. Should look something like this: imagename.jpg)
   roster:
- - name: TEAM MEMBER 1 FULL NAME 
+  - name: TEAM MEMBER 1 FULL NAME 
     email: TEAM MEMBER 1 EMAIL 
- - name: TEAM MEMBER 2 FULL NAME 
+  - name: TEAM MEMBER 2 FULL NAME 
     email: TEAM MEMBER 2 EMAIL
- - name: TEAM MEMBER 3 FULL NAME 
+  - name: TEAM MEMBER 3 FULL NAME 
     email: TEAM MEMBER 3 EMAIL
- - name: TEAM MEMBER 4 FULL NAME 
+  - name: TEAM MEMBER 4 FULL NAME 
     email: TEAM MEMBER 4 EMAIL
- - name: TEAM MEMBER 5 FULL NAME 
+  - name: TEAM MEMBER 5 FULL NAME 
     email: TEAM MEMBER 5 EMAIL
 
 assets:

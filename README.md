@@ -12,24 +12,25 @@ To create your team's Buildboard complete the below tasks
 ```yaml
 company:
   name: YOUR TEAM/COMPANY NAME HERE
-  logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. Should look something like this: Cornell_NYC_Tech_logo.png)
+  logo: COMPANY LOGO (Copy the and paste the file name here of your upload here. e.g. Cornell_NYC_Tech_logo.png)
 how_might_we: COPY AND PASTE YOUR HMW HERE
 
 product_narrative: |
   INPUT YOUR PRODUCT NARRATIVE HERE
 team:
-  picture: TEAM PHOTO FILE (Copy the and paste the file name here of your upload here. Should look something like this: imagename.jpg)
+  picture: TEAM PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
+
   roster:
-  - name: TEAM MEMBER 1 FULL NAME 
-    email: TEAM MEMBER 1 EMAIL 
-  - name: TEAM MEMBER 2 FULL NAME 
-    email: TEAM MEMBER 2 EMAIL
-  - name: TEAM MEMBER 3 FULL NAME 
-    email: TEAM MEMBER 3 EMAIL
-  - name: TEAM MEMBER 4 FULL NAME 
-    email: TEAM MEMBER 4 EMAIL
-  - name: TEAM MEMBER 5 FULL NAME 
-    email: TEAM MEMBER 5 EMAIL
+    - name: TEAM MEMBER 1 FULL NAME
+      email: TEAM MEMBER 1 EMAIL
+    - name: TEAM MEMBER 2 FULL NAME
+      email: TEAM MEMBER 2 EMAIL
+    - name: TEAM MEMBER 3 FULL NAME
+      email: TEAM MEMBER 3 EMAIL
+    - name: TEAM MEMBER 4 FULL NAME
+      email: TEAM MEMBER 4 EMAIL
+    - name: TEAM MEMBER 5 FULL NAME
+      email: TEAM MEMBER 5 EMAIL
 
 assets:
 - title: Sprint 1

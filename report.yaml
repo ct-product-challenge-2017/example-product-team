@@ -16,9 +16,11 @@ team:
   - name: Rachel Sobel
     email: rachel.sobel.cornell@gmail.com
     picture: rachel.jpg
+    program: LLM
   - name: Arnaud Sahuguet
     email: arnaud.sahuguet@cornell.edu
     picture: arnaud.png
+    program: MBA
 
 assets:
 - title: Sprint 1
@@ -26,4 +28,6 @@ assets:
 - title: Sprint 2
   url: http://cornelltech.io/health-apps-on-steroids/
 - title: Sprint 3
+  url: http://cornelltech.io/storybot/
+- title: Final
   url: http://cornelltech.io/storybot/

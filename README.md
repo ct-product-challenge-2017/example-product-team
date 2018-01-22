@@ -23,14 +23,19 @@ team:
   roster:
     - name: TEAM MEMBER 1 FULL NAME
       email: TEAM MEMBER 1 EMAIL
+      picture: TEAM MEMBER 1 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
     - name: TEAM MEMBER 2 FULL NAME
       email: TEAM MEMBER 2 EMAIL
+      picture: TEAM MEMBER 2 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
     - name: TEAM MEMBER 3 FULL NAME
       email: TEAM MEMBER 3 EMAIL
+      picture: TEAM MEMBER 3 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
     - name: TEAM MEMBER 4 FULL NAME
       email: TEAM MEMBER 4 EMAIL
+      picture: TEAM MEMBER 4 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
     - name: TEAM MEMBER 5 FULL NAME
       email: TEAM MEMBER 5 EMAIL
+      picture: TEAM MEMBER 5 PHOTO FILE (Copy the and paste the file name here of your upload here. e.g. imagename.jpg)
 
 assets:
 - title: Sprint 1

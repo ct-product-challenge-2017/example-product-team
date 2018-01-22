@@ -1,7 +1,11 @@
 company:
-  name: Cornell Tech
+  name: Team Awesome
   logo: Cornell_NYC_Tech_logo.png
-how_might_we: How might we showcase Cornell Tech students work?
+product_statement: How might we showcase Cornell Tech students work?
+tags:
+  - VR
+  - Health Tech
+  - Academia
 
 product_narrative: |
   Cornell Tech students build some amazing things. But it is often hard to show it to outside people.

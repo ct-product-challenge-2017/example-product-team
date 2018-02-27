@@ -1,7 +1,7 @@
 import pdb
 import yaml
 
-FILE_NAME = "report2.yaml"
+FILE_NAME = "example-product-team.yaml"
 
 TOP_LEVEL_KEYS = set(['product_narrative', 'company', 'how_might_we',
                     'assets', 'team'])

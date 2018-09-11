@@ -1,1 +1,8 @@
-OK.
+Incorrect yaml format: while parsing a block mapping
+  in "<byte string>", line 1, column 1:
+    company:
+    ^
+expected <block end>, but found '<block mapping start>'
+  in "<byte string>", line 3, column 3:
+      logo: Cornell_NYC_Tech_logo.png
+      ^.Unable to fetch assets for example-product-team.
